@@ -8,11 +8,7 @@
       "schematics": {},
       "root": "",
       "sourceRoot": "src",
-<<<<<<< HEAD
-      "prefix": "app",
-=======
       "prefix": "cars",
->>>>>>> ae4324b6cf98c1e9683ecbb626d65c4e67e48b15
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
